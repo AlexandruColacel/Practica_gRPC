@@ -1,0 +1,3 @@
+obj\Debug\net9.0\Protos/Restaurante.cs \
+obj\Debug\net9.0\Protos/RestauranteGrpc.cs: C:/Users/jamat/.nuget/packages/grpc.tools/2.59.0/build/native/include/google/protobuf/empty.proto\
+ Protos/restaurante.proto

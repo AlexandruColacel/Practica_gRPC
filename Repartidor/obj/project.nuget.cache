@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpevZGyS9yU=",
+  "success": true,
+  "projectFilePath": "/home/alex/Universidad/Distribuidos/Practica4/P4 - Proyecto base-20251117/Repartidor/Repartidor.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
+    "/home/alex/.nuget/packages/grpc.core.api/2.59.0/grpc.core.api.2.59.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/grpc.net.client/2.59.0/grpc.net.client.2.59.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/grpc.net.common/2.59.0/grpc.net.common.2.59.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/grpc.tools/2.59.0/grpc.tools.2.59.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

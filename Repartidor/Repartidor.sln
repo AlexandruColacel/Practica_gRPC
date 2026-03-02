@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repartidor", "Repartidor.csproj", "{D5C1A6C3-FDE1-635E-0AF0-3911A062DF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C1A6C3-FDE1-635E-0AF0-3911A062DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C1A6C3-FDE1-635E-0AF0-3911A062DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C1A6C3-FDE1-635E-0AF0-3911A062DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C1A6C3-FDE1-635E-0AF0-3911A062DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4575253-94F2-476E-A5A8-AA0125085E94}
+	EndGlobalSection
+EndGlobal
